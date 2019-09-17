@@ -1,0 +1,7 @@
+# EasingFunction document generator jazzy settings
+
+copyright: Copyright 2019 Assin
+author: Assin
+xcodebuild_arguments: [-target, EasingFunction-iOS]
+clean: true
+output: ./Documentation
