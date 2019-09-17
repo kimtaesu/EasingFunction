@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                      = "EasingFunction"
-  s.version                   = "1.0.0"
+  s.version                   = "1.0.1"
   s.summary                   = "EasingFunction"
   s.homepage                  = "https://github.com/kimtaesu/EasingFunction.git"
   s.license                   = { :type => "MIT", :file => "LICENSE" }
